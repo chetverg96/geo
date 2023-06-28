@@ -12,4 +12,5 @@ public class LocalizationServiceImpl implements LocalizationService {
                 return "Welcome";
         }
     }
+
 }
