@@ -1,3 +1,4 @@
+package ru.netology.geo;
 import org.junit.jupiter.api.Test;
 import ru.netology.entity.Country;
 import ru.netology.entity.Location;
